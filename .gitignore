@@ -4,4 +4,6 @@ out
 .DS_Store
 *.log*
 .gitignore
-config.bat
+
+.env*
+!.env.example
